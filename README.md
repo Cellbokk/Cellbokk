@@ -1,4 +1,4 @@
- ## Ola meu nome e Davi, e seja bem-vindo ao meu perfil! 🏆
+ ## Olá meu nome e Davi, e seja bem-vindo ao meu perfil! 🏆
  <img src="https://i.pinimg.com/originals/b5/99/6b/b5996befa70fc2fdf1379877f4488fec.gif" width="120px" heigth="100px"> 
 
  **Estudo e Trabalho com:**
@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cellbokk&layout=compact&show_icons=true&theme=radical)  
 
 
-
+**Contact:**
 <div>
   <a href="https://www.instagram.com/_daviquirinorocha_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "daviquirinorocha34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
